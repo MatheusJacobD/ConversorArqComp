@@ -1,4 +1,4 @@
-# Convesor Arquitetura Computacional
+# Conversor Arquitetura Computacional
 
 Criado no dia 16/03/2026
 
